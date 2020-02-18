@@ -1,6 +1,6 @@
 ## Notes API
 A very simple [Django](https://djangoproject.com) Rest API for CRUD.The project is implemented using the [Django Rest Framework](https://www.django-rest-framework.org/) .
-The API has four main operations
+The API has five main operations
 - Create a note (POST)
 - Edit a note(PUT)
 - Delete a note (DELETE)
